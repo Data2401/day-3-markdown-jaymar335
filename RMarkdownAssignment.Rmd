@@ -35,3 +35,34 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+
+# "Your work here"
+
+## Wise words
+ 
+ > "Be mindful. Be grateful. Be positive. Be true. Be kind."
+ > - Roy T. Bennett, The Light in the Heart
+ 
+ For more information about this quote, you can visit [Good Reads](https://www.goodreads.com/author/show/15042371.Roy_T_Bennett). 
+ 
+## My semester
+ 
+| __Course Number__ | _Course Title_ | Instructor Name |
+|----------------|-------------|---------------|
+| __CALC 2402__ | _Calculus 2_ | Shishen Xie |
+| __DATA 2401__ | _Data Science 1_ | Dr. Shoemaker |
+
+## I recomend
+
+### _Suzanne Collins_
+
+> "Happy Hunger Games! And may the odds be ever in your favor."
+> - Suzanne Collins
+
+#### Some of her notable works:
+- _The Hunger Games_
+- _Catching Fire_
+- _Mockingjay_
+- _The Ballad of Songbirds and Snakes_
+ 
+ 
